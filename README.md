@@ -5,4 +5,4 @@ The app developed for the first part of the assignment is avalilable at: https:/
 
 The presentation is available at: http://rpubs.com/ujfloss/286750  
 
-Files for the presentation are avalilable on the GitHub: https://raw.githubusercontent.com/ujfloss/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/master
+Files for the presentation are avalilable on the GitHub: https://github.com/ujfloss/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/blob/master/README.md
